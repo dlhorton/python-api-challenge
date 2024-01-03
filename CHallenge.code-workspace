@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "python-api-challenge",
+			"path": "."
+		},
+		{
+			"name": "output_data",
+			"path": "../../Downloads/Starter_Code 10/output_data"
+		},
+		{
+			"name": "DS-VIRT-DATA-PT-11-2023-U-LOLC-1",
+			"path": "../DS-VIRT-DATA-PT-11-2023-U-LOLC-1"
+		},
+		{
+			"path": "../../Downloads/Starter_Code 10/starter_code"
+		}
+	],
+	"settings": {}
+}
